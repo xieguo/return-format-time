@@ -1,14 +1,14 @@
-Install
+## Install
 
 $ npm install return-format-time
 
-Usage
+## Usage
 
-Node.js CommonJS
+## Node.js CommonJS
 
   //...
 
-AMD
+## AMD
 
 require(['return-format-time'], function (ReturnFormatTime) {
   //...
@@ -23,6 +23,6 @@ then
 </script>
 ```
 
-License
+## License
 
 MIT © Thank
