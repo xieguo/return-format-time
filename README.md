@@ -1,18 +1,22 @@
-## Install
+# Install
 
-$ npm install return-format-time
+$ npm install return-format-time --save-dev
 
-## Usage
+# Usage
 
 ## Node.js CommonJS
 
-  //...
+```
+require('return-format-time.js')();
+```
 
 ## AMD
 
+```
 require(['return-format-time'], function (ReturnFormatTime) {
-  //...
-});  
+  ReturnFormatTime()
+});
+```
 
 then
 
@@ -23,6 +27,6 @@ then
 </script>
 ```
 
-## License
+# License
 
 MIT © Thank

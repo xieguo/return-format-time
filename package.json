@@ -1,10 +1,10 @@
 {
   "name": "return-format-time",
-  "version": "1.0.1",
-  "description": "retrun format time demo",
-  "main": "index.js",
+  "version": "1.0.3",
+  "description": "retrun current format time",
+  "main": "return-format-time.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/mocha test"
+    "test": "node ./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   "author": "Thank",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xieguo/return-format-time.git%1B%5BD/issues"
+    "url": "https://github.com/xieguo/return-format-time/issues"
   },
-  "homepage": "https://github.com/xieguo/return-format-time.git%1B%5BD#readme",
+  "homepage": "https://github.com/xieguo/return-format-time/blob/master/README.md",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.0"
