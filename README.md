@@ -1,6 +1,8 @@
 # Install
 
-$ npm install return-format-time --save-dev
+```
+npm install return-format-time --save-dev
+```
 
 # Usage
 

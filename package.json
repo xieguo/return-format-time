@@ -1,6 +1,6 @@
 {
   "name": "return-format-time",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "retrun current format time",
   "main": "return-format-time.js",
   "scripts": {
